@@ -1,0 +1,1 @@
+'''Instance attribute is personal attribute of an object.'''
